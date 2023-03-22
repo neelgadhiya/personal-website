@@ -1,0 +1,17 @@
+*{
+   margin:0;padding:0;
+   box-sizing:border-box;
+}
+   body{
+   background-color:white;
+   }
+#particles-js{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)),url(Index.jpg);
+
+   background-size: cover;
+   height:680px;
+  color:#0d9ff300;
+}
+class.card{
+   margin:left;
+}
